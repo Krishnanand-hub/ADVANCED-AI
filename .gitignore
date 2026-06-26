@@ -13,3 +13,6 @@ RAW/Task+2+NLP+Dataset/train/images/*
 !RAW/Task+2+NLP+Dataset/train/images/.gitkeep
 RAW/Task+2+NLP+Dataset/val/images/*
 !RAW/Task+2+NLP+Dataset/val/images/.gitkeep
+RAW/.DS_Store
+.DS_Store
+RAW/Task 1 Food Segmentation Dataset/.DS_Store
