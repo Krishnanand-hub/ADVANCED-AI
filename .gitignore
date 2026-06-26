@@ -2,3 +2,14 @@ RAW/Task 1 Food Segmentation Dataset/FoodSeg103/Images/ann_dir/train/*
 !RAW/Task 1 Food Segmentation Dataset/FoodSeg103/Images/ann_dir/train/
 RAW/Task 1 Food Segmentation Dataset/FoodSeg103/Images/ann_dir/test/*
 !RAW/Task 1 Food Segmentation Dataset/FoodSeg103/Images/ann_dir/test/
+# Dataset files removed from tracking — keep folders, ignore contents
+RAW/Task 1 Food Segmentation Dataset/FoodSeg103/Images/ann_dir/test/*
+!RAW/Task 1 Food Segmentation Dataset/FoodSeg103/Images/ann_dir/test/.gitkeep
+RAW/Task 1 Food Segmentation Dataset/FoodSeg103/Images/ann_dir/train/*
+!RAW/Task 1 Food Segmentation Dataset/FoodSeg103/Images/ann_dir/train/.gitkeep
+RAW/Task+2+NLP+Dataset/test/images/*
+!RAW/Task+2+NLP+Dataset/test/images/.gitkeep
+RAW/Task+2+NLP+Dataset/train/images/*
+!RAW/Task+2+NLP+Dataset/train/images/.gitkeep
+RAW/Task+2+NLP+Dataset/val/images/*
+!RAW/Task+2+NLP+Dataset/val/images/.gitkeep
